@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "repository": "git@github.com:ashapir0/portfolio.git",
   "author": "Aaron J. Shapiro",
-  "license": "CC BY-NC-SA 4.0",
-  "private": false
+  "license": "CC-BY-NC-SA-4.0",
+  "private": false,
+  "dependencies": {}
 }
