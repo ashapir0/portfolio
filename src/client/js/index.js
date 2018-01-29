@@ -1,4 +1,5 @@
 import React from "react";
 import ReactDom from "react-dom";
+import RootWrapper from "./components/rootWrapper";
 
-ReactDom.render(<h1>Hello World</h1>, document.getElementById("app"));
+ReactDom.render(<RootWrapper/>, document.getElementById("app"));
